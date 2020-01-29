@@ -20,6 +20,5 @@ brew cask install skype
 brew cask install slack
 brew cask install docker
 brew cask install kitematic
-
-#vs code
+brew cask install visual-studio-code
 
